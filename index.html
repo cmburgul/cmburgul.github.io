@@ -1,0 +1,39 @@
+---
+layout: main
+---
+{% for post in paginator.posts %}
+<article class="post">
+  {% if post.img %}
+    <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
+  {% else %}
+  {% endif %}
+  <div class="post-content">
+    <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}" >{{post.title}}</a></h2> <!-- style="text-decoration: none;" -->
+    <p>{{post.description}}</p>
+    <!-- <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span> -->
+    <!-- <span class="post-words"> <a href="">[PDF]</a></span> -->
+    {% if post.paper %}
+      <span class="post-words"> <a href="{{post.paper | prepend: site.baseurl}}" style="text-decoration: none;">[Humanoids 2019 Paper]</a></span>
+    {% endif %}
+
+    {% if post.report %}
+      <span class="post-words"> <a href="{{post.report | prepend: site.baseurl}}" style="text-decoration: none;">[Report]</a></span>
+    {% endif %}
+
+    {% if post.video %}
+      <span class="post-words"> <a href="{{post.video}}" style="text-decoration: none;">[Video]</a></span>
+    {% endif %}
+
+    {% if post.poster %}
+      <span class="post-words"> <a href="{{post.poster | prepend: site.baseurl}}" style="text-decoration: none;">[ICRA 2018 Poster]</a></span>
+    {% endif %}
+
+    {% if post.code %}
+      <span class="post-words"> <a href="{{post.code}}" style="text-decoration: none;">[Code]</a></span>
+    {% endif %}
+
+  </div>
+</article>
+{% endfor %}
+
+{% include pagination.html %}
