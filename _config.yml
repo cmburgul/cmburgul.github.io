@@ -1,9 +1,9 @@
-title: Sapan's Website
+title: Chinmay's Website
 description: > # this means to ignore newlines until "baseurl:"
   I am a Robotics Graduate student at Worcester Polytechnic Institute.
   My research focuses on developing real-time motion planning and controls algorithms for robot navigation in dynamically-changing environments.
   I am also excited in exploiting tools from Deep Learning to enable what's beyond the conventional methods.
-baseurl: 'https://cmburgul.github.io/' # the subpath of your site, e.g. /blog
+baseurl: '/cmburgul' # the subpath of your site, e.g. /blog
 url: "https://cmburgul.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # site-twitter: #if your site has a twitter account, enter it here
 
