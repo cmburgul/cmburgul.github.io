@@ -8,7 +8,7 @@ url: "https://cmburgul.github.io/" # the base hostname & protocol for your site,
 # site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Sapan Agrawal # add your name
+author: Chinmay Burgul # add your name
 author-img: profile.jpg # add your photo
 about-author: I am a Robotics Graduate student at Worcester Polytechnic Institute. Currently, I am working with Prof. Jing Xiao at Adaptive and Intelligent Robotics (AIR) Lab, WPI. My research focuses on developing real-time motion planning and controls algorithms for robot navigation in dynamically-changing environments. I am also excited in exploiting tools from Deep Learning to enable what's beyond the conventional methods. Last year, I worked with Dr. Matthew Travers as a Visiting Scholar at Robotics Institute, CMU on motion planning and controls for legged robots.     
 # social-twitter: # add your Twitter handle
