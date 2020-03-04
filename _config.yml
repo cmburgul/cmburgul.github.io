@@ -10,7 +10,7 @@ url: "https://cmburgul.github.io/" # the base hostname & protocol for your site,
 # Author Settings
 author: Chinmay Burgul # add your name
 author-img: profile.jpg # add your photo
-about-author: I am a Robotics Graduate student at Worcester Polytechnic Institute. Currently, I am working with Prof. Jing Xiao at Adaptive and Intelligent Robotics (AIR) Lab, WPI. My research focuses on developing real-time motion planning and controls algorithms for robot navigation in dynamically-changing environments. I am also excited in exploiting tools from Deep Learning to enable what's beyond the conventional methods. Last year, I worked with Dr. Matthew Travers as a Visiting Scholar at Robotics Institute, CMU on motion planning and controls for legged robots.     
+about-author: Currently I am pursuing my Masters in Robotics Engineering at Worcester Polytechnic Institue. My research area is in Motion Planning and Control. Currently I am working on Motion Planning of Within Hand Manipulation using Reinforcement Learning Techniques under Dr. Berk Calli.
 # social-twitter: # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-github: cmburgul # add your Github handle
