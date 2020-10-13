@@ -1,6 +1,6 @@
 title: Chinmay's Website
 description: > # this means to ignore newlines until "baseurl:"
-  Currently I am pursuing my Masters in Robotics Engineering at Worcester Polytechnic Institue. My research area is in Motion Planning and Control. Currently I am working on Motion Planning of Within Hand Manipulation using Reinforcement Learning Techniques under Dr. Berk Calli.
+  I recently graduated from Masters in Robotics Engineering at Worcester Polytechnic Institue. My research interest is in Self-Supervised Learning in Reinforcement Learning. Previously I have worked on Motion Planning of Within Hand Manipulation using Reinforcement Learning Techniques under Dr. Berk Calli. I am looking for research and collaboration in the field of Reinforcement Learning. 
 baseurl: 'https://cmburgul.github.io/' # the subpath of your site, e.g. /blog
 url: "https://cmburgul.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # site-twitter: #if your site has a twitter account, enter it here
@@ -8,7 +8,7 @@ url: "https://cmburgul.github.io/" # the base hostname & protocol for your site,
 # Author Settings
 author: Chinmay Burgul # add your name
 author-img: profile.jpg # add your photo
-about-author: I recently graduated from Masters in Robotics Engineering at Worcester Polytechnic Institue. My research interest is in Self-Supervised Learning in Reinforcement Learning. Previously I have worked on Motion Planning of Within Hand Manipulation using Reinforcement Learning Techniques under Dr. Berk Calli.
+about-author: I recently graduated from Masters in Robotics Engineering at Worcester Polytechnic Institue. My research interest is in Self-Supervised Learning in Reinforcement Learning. Previously I have worked on Motion Planning of Within Hand Manipulation using Reinforcement Learning Techniques under Dr. Berk Calli. I am looking for research and collaboration in the field of Reinforcement Learning.
 # social-twitter: # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-github: cmburgul # add your Github handle
