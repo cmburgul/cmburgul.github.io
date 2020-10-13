@@ -5,7 +5,7 @@ date: 2019-01-30 13:32:20 +0300
 description: Within Hand Manipulation(WIHM) is seen as a good skill in Robotic Manipulation tasks which reduces manipulation complexity in scenarios where object to be manipulated needs to be re-oriented or re-positioned to perform a given task. This project explores a model-free approach for planning of WIHM tasks using Reinforcement Learning Techniques.     
 img:  ff_finger.gif # Add image post (optional)
 
-paper: /assets/pdf/Directed_Research_Report.pdf
+report: /assets/pdf/Directed_Research_Report.pdf
 
 tags: [Motion Planning, Deep Reinforcement Learning, Deep Learning]
 ---
