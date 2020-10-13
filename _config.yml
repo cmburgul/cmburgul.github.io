@@ -8,11 +8,11 @@ url: "https://cmburgul.github.io/" # the base hostname & protocol for your site,
 # Author Settings
 author: Chinmay Burgul # add your name
 author-img: profile.jpg # add your photo
-about-author: Currently I am pursuing my Masters in Robotics Engineering at Worcester Polytechnic Institue. My research area is in Motion Planning and Control. Currently I am working on Motion Planning of Within Hand Manipulation using Reinforcement Learning Techniques under Dr. Berk Calli.
+about-author: I recently graduated from Masters in Robotics Engineering at Worcester Polytechnic Institue. My research interest is in Self-Supervised Learning in Reinforcement Learning. Previously I have worked on Motion Planning of Within Hand Manipulation using Reinforcement Learning Techniques under Dr. Berk Calli.
 # social-twitter: # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-github: cmburgul # add your Github handle
-social-linkedin: cmburgul # add your Linkedin handle
+social-linkedin: https://www.linkedin.com/in/chinmay-burgul/ # add your Linkedin handle
 social-email: cmburgul@gmail.com # add your Email address
 
 # Disqus
