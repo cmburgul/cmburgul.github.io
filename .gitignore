@@ -10,7 +10,6 @@ _site
 .venv
 assets/libs/
 assets/rendercv/rendercv_output/*.typ
-Gemfile.lock
 node_modules/
 vendor
 .devcontainer/devcontainer-lock.json
