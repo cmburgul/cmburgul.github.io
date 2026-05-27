@@ -34,8 +34,7 @@ I am actively seeking full-time roles in **Robotics Software Engineering and Res
 
 **Research Interests**
 - Multi-Sensor Fusion & Tightly-Coupled State Estimation
-- Visual-Inertial, LiDAR, and 3D Sonar SLAM
+- Visual-Inertial Odometry, LiDAR-Inertial Odometry, 3D Sonar Odometry and SLAM
 - Sensor Calibration 
 - Filtering and Non-Linear Optimization Theory 
 - Robotics Perception & Dense Mapping
-- 

@@ -20,7 +20,6 @@ We also established a new method to incorporate terrain as a soft-state constrai
     Foothold optimization conforming to terrain cost map using gradient descent of local polynomials.
 </div>
 
-> **Unified Foothold Selection and Motion Planning for Legged Systems in Real-Time**, Steven Crews, Sapan Agrawal, Matthew Travers, *IEEE-RAS International Conference on Humanoid Robots, 2019*.
 
 **Tags:** Motion Planning · Controls · Deep Learning · Reinforcement Learning · Legged Robots
 

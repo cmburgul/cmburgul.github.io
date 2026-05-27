@@ -5,4 +5,4 @@ cv_pdf: /assets/pdf/Resume.pdf # path to your CV PDF file
 email: cmburgul@gmail.com # your email address
 github_username: cmburgul # your GitHub username
 linkedin_username: chinmay-burgul # your LinkedIn username
-rss_icon: false # comment this line to hide the RSS icon
+# rss_icon: false # comment this line to hide the RSS icon
