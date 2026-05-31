@@ -13,4 +13,8 @@ assets/rendercv/rendercv_output/*.typ
 node_modules/
 vendor
 .devcontainer/devcontainer-lock.json
-.claude/
+.claude/settings.local.json
+.claude/*.lock
+.claude/projects/
+.claude/shell-snapshots/
+.claude/todos/
