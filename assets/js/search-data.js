@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "My research focuses on State Estimation, SLAM, and Multi-Sensor Fusion for autonomous systems.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-minor-projects",
+  },{id: "nav-minor-projects",
           title: "minor_projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
