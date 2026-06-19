@@ -35,14 +35,14 @@ Site is live at **http://localhost:8080** with live-reload on file changes.
 
 ## Common commands
 
-| Task | Command |
-|---|---|
-| Start (use cached image) | `docker compose up` |
-| Start in background | `docker compose up -d` |
-| Stop | `docker compose down` |
-| View logs (if running in background) | `docker compose logs -f` |
-| First-time or after Gemfile changes | `docker compose up --build` |
-| Pull latest upstream image | `docker compose pull && docker compose up --build` |
+| Task                                 | Command                                            |
+| ------------------------------------ | -------------------------------------------------- |
+| Start (use cached image)             | `docker compose up`                                |
+| Start in background                  | `docker compose up -d`                             |
+| Stop                                 | `docker compose down`                              |
+| View logs (if running in background) | `docker compose logs -f`                           |
+| First-time or after Gemfile changes  | `docker compose up --build`                        |
+| Pull latest upstream image           | `docker compose pull && docker compose up --build` |
 
 ---
 
