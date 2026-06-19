@@ -5,7 +5,7 @@ title: projects
 description: >
   My research focuses on <strong>State Estimation, SLAM, and Multi-Sensor Fusion</strong>
   for autonomous systems.
-nav: true
+nav: false
 nav_order: 2
 ---
 

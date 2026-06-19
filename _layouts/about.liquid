@@ -73,6 +73,14 @@ layout: default
       </div>
     {% endif %}
 
+    <!-- Publications -->
+    {% if page.show_publications %}
+      <h2>Projects</h2>
+      <div class="publications">
+        {% bibliography %}
+      </div>
+    {% endif %}
+
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
