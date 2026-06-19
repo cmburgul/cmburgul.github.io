@@ -20,7 +20,6 @@ We also established a new method to incorporate terrain as a soft-state constrai
     Foothold optimization conforming to terrain cost map using gradient descent of local polynomials.
 </div>
 
-
 **Tags:** Motion Planning · Controls · Deep Learning · Reinforcement Learning · Legged Robots
 
 <a href="/assets/pdf/Controls_Project_report.pdf" class="btn btn-sm z-depth-0" role="button">Report</a>
