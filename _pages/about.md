@@ -23,13 +23,13 @@ latest_posts:
   enabled: false
 ---
 
-I am a roboticist, specializing in **State Estimation, Localization and SLAM**. I recently concluded my graduate research at the [University of Delaware](https://www.udel.edu/), where I focused on visual-inertial odometry, 3D LiDAR/Sonar-inertial odometry and multi-sensor fusion for autonomous systems.
+I am a roboticist, specializing in **State Estimation, Localization and SLAM**. I currently work as SLAM Engineer at [Exyn Technologies](https://www.exyn.com/), where I develop robust perception, localization, and mapping algorithms for autonomous robots operating in challenging environments.
 
-My work spans visual-inertial odometry, 3D sonar and LiDAR-inertial SLAM, and extrinsic calibration across heterogeneous sensor suites including DVL, pressure sensors, depth cameras, and leg kinematics. A core theme across my projects is bridging algorithmic rigor with deployment — I have taken SLAM stacks from design to field validation on underwater vehicles and legged robots.
+During my graduate studies at the [University of Delaware](https://www.udel.edu/), my research focused on **visual-inertial odometry, 3D LiDAR- and sonar-inertial odometry, and multi-sensor fusion** for autonomous systems. My work has included **LiDAR- and sonar-inertial SLAM, visual-inertial odometry, and extrinsic calibration** across heterogeneous sensor suites, including DVLs, pressure sensors, depth cameras, and legged-robot kinematics.
 
-Previously, I completed my **M.Sc. in Robotics Engineering** at [Worcester Polytechnic Institute (WPI)](https://www.wpi.edu/), where I researched deep reinforcement learning for within-hand robotic manipulation.
+A central theme of my work is bridging **algorithmic rigor with real-world deployment**. I have developed and validated state-estimation and SLAM systems for **underwater and legged robotic platforms**, translating research concepts into robust algorithms and validating them through experimental evaluation and field deployment.
 
-I am actively seeking full-time roles in **Robotics Software Engineering and Research** particularly in SLAM, Odometry, and State Estimation.
+Previously, I earned my **M.Sc. in Robotics Engineering** at [Worcester Polytechnic Institute (WPI)](https://www.wpi.edu/), where I researched deep reinforcement learning for within-hand robotic manipulation.
 
 ---
 
