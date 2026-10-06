@@ -6,13 +6,13 @@
   
   <!-- Primary Meta Tags -->
   <!-- TODO: Replace with your paper title and author names -->
-  <meta name="title" content="PAPER_TITLE - AUTHOR_NAMES">
+  <meta name="title" content="SVIn+ Chinmay Burgul">
   <!-- TODO: Write a compelling 150-160 character description of your research -->
-  <meta name="description" content="BRIEF_DESCRIPTION_OF_YOUR_RESEARCH_CONTRIBUTION_AND_FINDINGS">
+  <meta name="description" content="3D Sonar+DVL+Pressure+VIO for robust underwater state estimation">
   <!-- TODO: Add 5-10 relevant keywords for your research area -->
-  <meta name="keywords" content="KEYWORD1, KEYWORD2, KEYWORD3, machine learning, computer vision, AI">
+  <meta name="keywords" content="Robotics, Underwater, State Estimation, Computer Vision, AI">
   <!-- TODO: List all authors -->
-  <meta name="author" content="FIRST_AUTHOR_NAME, SECOND_AUTHOR_NAME">
+  <meta name="author" content="Chinmay Burgul, Alberto Quattrini Li">
   <meta name="robots" content="index, follow">
   <meta name="language" content="English">
   
@@ -21,35 +21,21 @@
   <!-- TODO: Replace with your institution or lab name -->
   <meta property="og:site_name" content="INSTITUTION_OR_LAB_NAME">
   <!-- TODO: Same as paper title above -->
-  <meta property="og:title" content="PAPER_TITLE">
+  <meta property="og:title" content="SVIn+">
   <!-- TODO: Same as description above -->
-  <meta property="og:description" content="BRIEF_DESCRIPTION_OF_YOUR_RESEARCH_CONTRIBUTION_AND_FINDINGS">
+  <meta property="og:description" content="3D Sonar+DVL+Pressure+VIO for robust underwater state estimation">
   <!-- TODO: Replace with your actual website URL -->
   <meta property="og:url" content="https://YOUR_DOMAIN.com/YOUR_PROJECT_PAGE">
   <!-- TODO: Create a 1200x630px preview image and update path -->
   <meta property="og:image" content="https://YOUR_DOMAIN.com/static/images/social_preview.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="PAPER_TITLE - Research Preview">
+  <meta property="og:image:alt" content="SVIn+ - 3D Sonar+DVL+Pressure+VIO for robust underwater state estimation">
   <meta property="article:published_time" content="2024-01-01T00:00:00.000Z">
-  <meta property="article:author" content="FIRST_AUTHOR_NAME">
+  <meta property="article:author" content="Chinmay Burgul">
   <meta property="article:section" content="Research">
   <meta property="article:tag" content="KEYWORD1">
   <meta property="article:tag" content="KEYWORD2">
-
-  <!-- Twitter -->
-  <meta name="twitter:card" content="summary_large_image">
-  <!-- TODO: Replace with your lab/institution Twitter handle -->
-  <meta name="twitter:site" content="@YOUR_TWITTER_HANDLE">
-  <!-- TODO: Replace with first author's Twitter handle -->
-  <meta name="twitter:creator" content="@AUTHOR_TWITTER_HANDLE">
-  <!-- TODO: Same as paper title above -->
-  <meta name="twitter:title" content="PAPER_TITLE">
-  <!-- TODO: Same as description above -->
-  <meta name="twitter:description" content="BRIEF_DESCRIPTION_OF_YOUR_RESEARCH_CONTRIBUTION_AND_FINDINGS">
-  <!-- TODO: Same as social preview image above -->
-  <meta name="twitter:image" content="https://YOUR_DOMAIN.com/static/images/social_preview.png">
-  <meta name="twitter:image:alt" content="PAPER_TITLE - Research Preview">
 
   <!-- Academic/Research Specific -->
   <meta name="citation_title" content="PAPER_TITLE">
@@ -353,15 +339,10 @@
           <!-- TODO: Replace with your paper abstract -->
           <p>
             As expansion and scalability in underwater operations becomes more important and challenging, autonomous underwater vehicles (AUVs) become more relevant and the necessity for reliable autonomy more critical.
-            %
             A fundamental problem to enable any autonomous operation underwater, from control to safe navigation and mapping, is state estimation; a notorious challenge to address especially in low visibility conditions.
-            % Central to achieving this is robust state estimation -- particularly in low visibility environments -- which serves as the fundamental prerequisite for safe navigation, motion planning and control.
-            %  
             In this paper, we tackle this problem, by presenting SVIn+, a multi-sensor framework for robust state estimation of AUVs equipped with an IMU, cameras, a water-pressure sensor, a Doppler Velocity Log (DVL), and, especially, a compact 3D sonar.
-            % 
             This framework extends an established open-source state-of-the-art visual-inertial SLAM, SVIn, by integrating water-pressure and DVL measurements into a tightly-coupled nonlinear optimization formulation resulting in improved estimates. 
             To leverage the structural information of recently available 3D acoustic sonars while maintaining computational efficiency, we introduce an hierarchical architecture that incorporates estimates from a decoupled front-end via KISS-ICP, treated as relative pose factors within the factor graph.
-            %
             The proposed framework is validated through field deployments in a shipwreck and coral reef, demonstrating drift mitigation and global consistency. 
             To support further research in underwater multi-modal fusion, code and datasets will be released upon acceptance.
           </p>
