@@ -9,11 +9,11 @@ last_name: Burgul
 contact_note: >
   Feel free to reach out via email for research collaborations or opportunities.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Robotics Engineer specializing in Reinforcement Learning and Motion Planning. MS in Robotics Engineering from WPI.
+  Robotics Software Engineer specializing in SLAM, state estimation and multi-sensor fusion for aerial, underwater and legged robots. SLAM Engineer at Exyn Technologies.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: robotics, reinforcement learning, motion planning, deep learning, portfolio
+keywords: robotics, SLAM, state estimation, visual-inertial odometry, sensor fusion, aerial robotics, underwater robotics, legged robotics
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
