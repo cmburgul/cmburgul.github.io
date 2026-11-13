@@ -20,7 +20,9 @@ jobs:
       - name: Setup Node.js ⚙️
         uses: actions/setup-node@v4
       - name: Install Prettier 💾
-        run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
+        # Use the versions pinned in package-lock.json so new Prettier releases
+        # do not change formatting under us
+        run: npm ci
       - name: Prettier Check 🔎
         id: prettier
         run: npx prettier . --check
