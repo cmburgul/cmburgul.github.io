@@ -65,14 +65,14 @@ docker compose down
 
 ## Updating Your Content
 
-| What to change | Where |
-|---|---|
-| Bio / About page | `_pages/about.md` |
-| Profile picture | `assets/img/prof_pic.jpg` (replace with your photo) |
-| Resume / CV | `assets/pdf/Resume.pdf` (replace with your file) |
-| Projects | `_projects/` — one `.md` file per project |
-| Social links (GitHub, LinkedIn, email) | `_data/socials.yml` |
-| Site title, name, description | `_config.yml` |
+| What to change                         | Where                                               |
+| -------------------------------------- | --------------------------------------------------- |
+| Bio / About page                       | `_pages/about.md`                                   |
+| Profile picture                        | `assets/img/prof_pic.jpg` (replace with your photo) |
+| Resume / CV                            | `assets/pdf/Resume.pdf` (replace with your file)    |
+| Projects                               | `_projects/` — one `.md` file per project           |
+| Social links (GitHub, LinkedIn, email) | `_data/socials.yml`                                 |
+| Site title, name, description          | `_config.yml`                                       |
 
 ### Adding a new project
 
