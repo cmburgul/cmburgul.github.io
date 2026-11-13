@@ -4,6 +4,7 @@ Here we will give you some tips on how to customize the website. One important t
 
 > **Note for users without coding experience:** You do **not** need to understand the technology stack or have any coding background to create and customize your own website with al-folio. This template was specifically designed to be accessible to academics and researchers from all backgrounds. You can create a fully functional website by simply editing configuration files and adding content in Markdown, no coding required.
 
+<!-- prettier-ignore-start -->
 <!--ts-->
 
 - [Customize](#customize)
@@ -95,6 +96,7 @@ Here we will give you some tips on how to customize the website. One important t
     - [How to set up the PAT](#how-to-set-up-the-pat)
 
 <!--te-->
+<!-- prettier-ignore-end -->
 
 ## Project structure
 
